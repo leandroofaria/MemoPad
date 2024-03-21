@@ -1,4 +1,4 @@
-interface Thoughts {
+export interface Thoughts {
     id: number,
     conteudo: string,
     autoria: string,
